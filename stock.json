@@ -1,0 +1,14 @@
+[
+    {
+        "name": "GOOGL",
+        "amount": 100,
+        "value": 97.46,
+        "currency": "USD"
+    },
+    {
+        "name": "MSFT",
+        "amount": 100,
+        "value": 247.49,
+        "currency": "USD"
+    }
+]
